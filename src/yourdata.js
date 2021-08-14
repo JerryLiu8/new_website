@@ -123,12 +123,12 @@ export default {
     {
       img: jsIcon,
       para:
-        "I have around 3 years of experience programming in JavaScript. I know NodeJS and jQuery.",
+        "I have around 3 years of experience programming in JavaScript.",
     },
     {
       img: reactIcon,
       para:
-        "I'm currently learning React.js",
+        "I used React.js in my last internship, and I'm currently learning more about React.js as well",
     },
   ],
 
