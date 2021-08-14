@@ -2,10 +2,13 @@
 import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
-import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import pythonIcon from "./images/python.svg"
+import javaIcon from "./images/java.svg"
+import cppIcon from "./images/cpp.svg"
+import htmlcssIcon from "./images/htmlcss.svg"
+import jsIcon from "./images/js.svg"
 
 // Social Icon
 import mailIcon from "./images/mail.svg"
@@ -103,29 +106,29 @@ export default {
         "Python is my strongest programming language. It is by far the most common langauge I've used in my classes and projects. I have extensive knowledge of Python scripting, and I have experience with Python web frameworks like Django. Furthermore, I've used many Python libraries such as NumPy, Matplotlib, and TensorFlow in various data science and machine learning projects.",
     },
     {
-      img: cssIcon,
+      img: javaIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Java is the first programming language I learned, back in 9th grade. Programming in Java has taught me much about Object-Oriented Design and the principles of abstraction, encapsulation, inheritance, and polymorphism. I've programmed using Java for several different projects and assignments.",
+    },
+    {
+      img: cppIcon,
+      para:
+        "I have about 4 years of experience in C++ and C. These languages have taught me how to use pointers and how to manage memory in programs.",
+    },
+    {
+      img: htmlcssIcon,
+      para:
+        "I have studied HTML and CSS on my own to better understand web development. My goal is to become a full-stack developer, so mastering front-end development is a high priority.",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I have around 3 years of experience programming in JavaScript. I know NodeJS and jQuery.",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "I'm currently learning React.js",
     },
   ],
 
