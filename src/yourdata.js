@@ -30,7 +30,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm a 3rd year student at UVA pursuing a Bachelor of Science in Computer Science. Ever since I learned programming in high school, my dream has been to become an elite software engineer who creates awesome projects. I am always looking for new opportunities to grow and expand my skillset. Currently, I'm a teaching assistant for UVA's Computer Architecture class (CS 3330), and I'm actively looking for a 2022 summer internship.",
+    "I'm a 3rd year student at UVA pursuing a Bachelor of Science in Computer Science. Ever since I learned how to program in high school, my dream has been to become an elite software engineer who creates awesome projects. I am always looking for new opportunities to grow and expand my skillset. Currently, I'm a teaching assistant for UVA's Computer Architecture class (CS 3330), and I'm actively looking for a 2022 summer internship.",
 
   //   End About Section ---------------------
 

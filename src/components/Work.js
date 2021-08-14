@@ -1,8 +1,5 @@
 import React from "react"
-import Card from "./atoms/Card"
 import Fade from "react-reveal/Fade"
-
-import data from "../yourdata"
 
 const Work = () => {
   return (
@@ -13,18 +10,31 @@ const Work = () => {
             <h1>Work</h1>
           </Fade>
 
-          <div className="grid">
-            <Fade bottom cascade>
-              {data.projects.map((project, index) => (
-                <Card
-                  key={index}
-                  heading={project.title}
-                  paragraph={project.para}
-                  imgUrl={project.imageSrc}
-                  projectLink={project.url}
-                ></Card>
-              ))}
-            </Fade>
+          <div class="row work">
+
+            <div>
+
+              <h2>Leidos</h2>
+              <p class="info">Software Engineering Intern <span>&bull;</span> <em class="date">May 2021 - August 2021</em></p>
+
+              <p>
+                Worked on the All-World Environment Simulation (AWESIM) project, an algorithm that creates a high-fidelity physics-based simulation of the generation and propagation of acoustic signals in the ocean for sonar trainers in the U.S. Navy. Wrote and debugged code in C++, Python, and React.js. Followed the agile methodology with a Jira Kanban Board and used the Conan C++ package manager, RESTful web services, Jenkins, and Kubernetes
+              </p>
+
+            </div>
+
+
+            <div>
+
+              <h2>University of Virginia</h2>
+              <p class="info">Teaching Assistant <span>&bull;</span> <em class="date">February 2021 - Present</em></p>
+
+              <p>
+                Assisted students with understanding computer architecture concepts and the MIPS assembly language. Hosted weekly office hours, cohosted lab sections, and answered questions on Piazza.
+              </p>
+
+            </div>
+
           </div>
         </div>
       </div>
