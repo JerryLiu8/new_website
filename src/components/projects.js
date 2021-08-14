@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <div className="section" id="projects">
       <div className="container">
-        <div className="work-wrapper">
+        <div className="projects-wrapper">
           <Fade bottom>
             <h1>Projects</h1>
           </Fade>

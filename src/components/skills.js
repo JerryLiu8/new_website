@@ -4,7 +4,7 @@ import Fade from "react-reveal/Fade"
 
 const Skills = () => {
   return (
-    <div className="section">
+    <div className="section" id="skills">
       <div className="container">
         <div className="skills-container">
         <Fade bottom>

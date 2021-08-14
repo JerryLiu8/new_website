@@ -5,6 +5,7 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import pythonIcon from "./images/python.svg"
 
 // Social Icon
 import mailIcon from "./images/mail.svg"
@@ -39,40 +40,40 @@ export default {
     {
       title: "2048 Clone", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "My 2048 clone made using JavaScript", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
       //Project URL - Add Your Project Url Here
       url: "https://jerryliu8.github.io/2048-clone/",
     },
     {
       title: "Typing Game", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A simple JavaScript Web App for practicing typing skills.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://lh3.googleusercontent.com/proxy/tsAMfE58tL_joZRS090fxUVhjHU9BcWD-7RkAGWuJHmZC2NsvNZLjABwpTjTv-c66Saht1KZANpbwUev7D4pcsPBQkRpvWlw3w",
       //Project URL - Add Your Project Url Here
       url: "https://jerryliu8.github.io/TypingGame/",
     },
     {
-      title: "Chess Game Tracking via Computer Vision and Deep Learning", //Project Title - Add Your Project Title Here
+      title: "Automatic Chess Game Tracking", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Developed project on chess game tracking through computer vision and deep learning using a custom dataset and a Convolutional Neural Network. Implemented the Keras, TensorFlow, and OpenCV Python libraries.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Chess_board_opening_staunton.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://github.com/JerryLiu8/Senior-Research",
     },
     {
       title: "Old Website", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "My first personal portfolio website", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://icon-library.com/images/web-icon-black/web-icon-black-3.jpg",
       //Project URL - Add Your Project Url Here
       url: "https://jerryliu8.github.io/index.html",
     },
@@ -97,9 +98,9 @@ export default {
 
   skills: [
     {
-      img: htmlIcon,
+      img: pythonIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Python is my strongest programming language. It is by far the most common langauge I've used in my classes and projects. I have extensive knowledge of Python scripting, and I have experience with Python web frameworks like Django. Furthermore, I've used many Python libraries such as NumPy, Matplotlib, and TensorFlow in various data science and machine learning projects.",
     },
     {
       img: cssIcon,
@@ -130,16 +131,7 @@ export default {
 
   // End Skills Section --------------------------
 
-  //   Promotion Section --------------------------
-
-  promotionHeading: "Heading",
-  promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  // End Promotion Section -----------------
-
   //   Contact Section --------------
-
-  contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
     { img: mailIcon, url: "mailto:jyl3xf@virginia.edu" },
