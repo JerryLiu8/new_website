@@ -8,6 +8,7 @@ import Work from "../components/Work"
 import About from "../components/about"
 import Skills from "../components/skills"
 import Education from "../components/Education"
+import Projects from "../components/projects"
 import Footer from "../components/Footer"
 
 const IndexPage = () => (
@@ -18,6 +19,7 @@ const IndexPage = () => (
     <Work></Work>
     <Education></Education>
     <Skills></Skills>
+    <Projects></Projects>
     <Footer></Footer>
   </Layout>
 )

@@ -17,7 +17,7 @@ const About = () => {
           </div>
           <div className="resume-transcript">
             <a
-                href="https://github.com/JerryLiu8/resume/raw/main/Jerry%20Liu%20Resume.pdf"
+                href="resume.pdf"
                 className="primary-btn"
               >
                 Download Resume
