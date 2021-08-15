@@ -12,7 +12,6 @@ import githubIcon from "./images/github.svg"
 import linkedinIcon from "./images/linkedin.svg"
 
 export default {
-  //Change The Website Template
 
   //   Header Details ---------------------
   headerTagline: [
