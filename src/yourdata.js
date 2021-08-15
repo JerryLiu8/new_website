@@ -107,7 +107,7 @@ export default {
     {
       img: jsIcon,
       para:
-        "I have around 3 years of experience programming in JavaScript.",
+        "I have around 3 years of experience programming in JavaScript. I used JavaScript to create a 2048 clone and a typing game!",
     },
     {
       img: reactIcon,
