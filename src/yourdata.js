@@ -57,7 +57,7 @@ export default {
     {
       title: "Automatic Chess Game Tracking", //Project Title - Add Your Project Title Here
       para:
-        "My senior research project. It uses computer vision and deep learning to track chess games.", // Add Your Service Type Here
+        "My senior research project. It uses computer vision and deep learning.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://upload.wikimedia.org/wikipedia/commons/c/c3/Chess_board_opening_staunton.jpg",
