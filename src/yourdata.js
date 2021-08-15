@@ -50,7 +50,7 @@ export default {
         "A simple JavaScript Web App for practicing typing skills.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://lh3.googleusercontent.com/proxy/tsAMfE58tL_joZRS090fxUVhjHU9BcWD-7RkAGWuJHmZC2NsvNZLjABwpTjTv-c66Saht1KZANpbwUev7D4pcsPBQkRpvWlw3w",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSZJBCmwKmIFAxUWwNfPrcKdvorL2GaoGrw&usqp=CAU",
       //Project URL - Add Your Project Url Here
       url: "https://jerryliu8.github.io/TypingGame/",
     },
