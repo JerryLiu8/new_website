@@ -57,7 +57,7 @@ export default {
     {
       title: "Automatic Chess Game Tracking", //Project Title - Add Your Project Title Here
       para:
-        "Developed project on chess game tracking through computer vision and deep learning using a custom dataset and a Convolutional Neural Network. Implemented the Keras, TensorFlow, and OpenCV Python libraries.", // Add Your Service Type Here
+        "My senior research project. It uses computer vision and deep learning to track chess games.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://upload.wikimedia.org/wikipedia/commons/c/c3/Chess_board_opening_staunton.jpg",
