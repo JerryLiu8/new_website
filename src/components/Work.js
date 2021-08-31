@@ -18,7 +18,7 @@ const Work = () => {
               <p class="info">Software Engineering Intern <span>&bull;</span> <em class="date">May 2021 - August 2021</em></p>
 
               <p>
-                Worked on the All-World Environment Simulation (AWESIM) project, an algorithm that creates a high-fidelity physics-based simulation of the generation and propagation of acoustic signals in the ocean for sonar trainers in the U.S. Navy. Wrote and debugged code in C++, Python, and React.js. Followed the agile methodology with a Jira Kanban Board and used the Conan C++ package manager, RESTful web services, Jenkins, and Kubernetes
+                Worked on the All-World Environment Simulation (AWESIM) project, a high-fidelity physics-based simulation of the generation and propagation of acoustic signals in the ocean for sonar trainers in the U.S. Navy. Developed and debugged code in C++, Python, and React.js. Followed the agile methodology with a Jira Kanban Board and used the Conan C++ package manager, RESTful web services, Jenkins, and Kubernetes
               </p>
 
             </div>
@@ -30,7 +30,7 @@ const Work = () => {
               <p class="info">Teaching Assistant <span>&bull;</span> <em class="date">February 2021 - Present</em></p>
 
               <p>
-                Assisted students with understanding computer architecture concepts and the MIPS assembly language. Hosted weekly office hours, cohosted lab sections, and answered questions on Piazza.
+                Assisting students with understanding computer architecture concepts and the x86 assembly language. Currently hosting weekly office hours, cohosting lab sections, and answering questions on Piazza.
               </p>
 
             </div>
